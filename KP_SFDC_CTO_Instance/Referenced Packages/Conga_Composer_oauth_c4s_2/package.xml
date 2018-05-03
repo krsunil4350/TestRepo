@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Conga_Composer_oauth_c4s_2</fullName>
+    <apiAccessLevel>Unrestricted</apiAccessLevel>
+    <modules>
+        <module>
+            <label>Conga_Composer_oauth_c4s_2</label>
+            <moduleType>canvas</moduleType>
+            <name>Conga_Composer_oauth_c4s_2</name>
+            <types>
+                <members>Conga_Composer_oauth_c4s_2Canvas</members>
+                <name>CanvasMetadata</name>
+            </types>
+            <types>
+                <members>APXTConga4__Conga_Composer_oauth_c4s_2</members>
+                <name>Module</name>
+            </types>
+            <version>58.0</version>
+        </module>
+    </modules>
+    <namespacePrefix>APXTConga4</namespacePrefix>
+    <version>31.0</version>
+</Package>

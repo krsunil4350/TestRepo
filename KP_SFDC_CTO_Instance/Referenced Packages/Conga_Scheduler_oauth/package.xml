@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Conga_Scheduler_oauth</fullName>
+    <apiAccessLevel>Unrestricted</apiAccessLevel>
+    <modules>
+        <module>
+            <label>Conga_Scheduler_oauth</label>
+            <moduleType>connected</moduleType>
+            <name>Conga_Scheduler_oauth</name>
+            <types>
+                <members>Conga_Scheduler_oauth_devConfig</members>
+                <name>ConnectivityDevConfigMetadata</name>
+            </types>
+            <types>
+                <members>APXTConga4__Conga_Scheduler_oauth</members>
+                <name>Module</name>
+            </types>
+            <version>58.0</version>
+        </module>
+    </modules>
+    <namespacePrefix>APXTConga4</namespacePrefix>
+    <version>31.0</version>
+</Package>
